@@ -2,7 +2,7 @@
   "private": true,
   "name": "@iva/pwa-naumka-62",
   "version": "0.1.26",
-  "repository": "https://github.com/LaconicNetwork/loro-testnet-example-pwa",
+  "repository": "https://github.com/naumeth/loro-testnet-example-pw",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
